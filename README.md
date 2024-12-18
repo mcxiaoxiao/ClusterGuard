@@ -8,6 +8,13 @@ ClusterGuard 是一个用于集群监控和自动故障转移的Streamlit面板�
 - 自动故障转移，支持自定义重试机制。
 - 直观的界面和状态反馈。
 
+
+## 自动规则
+![Demo 2](img/demo2.gif)
+
+## 手动转移
+![Demo 1](img/demo1.gif)
+
 ## mStatAPI
 
 [Mini Server Status API (mStatAPI)](https://github.com/mcxiaoxiao/mStatAPI) 是一个轻量级的服务器状态 API 工具，设计用于快速部署和监控服务器健康。它提供 CPU 负载、内存使用和网络延迟等基本指标，适合小规模服务器监控和管理任务。
@@ -50,7 +57,5 @@ ClusterGuard 是一个用于集群监控和自动故障转移的Streamlit面板�
 - **monitor.py**: 监控和故障转移逻辑的主脚本。
 - **README.md**: 项目文档。
 
-## 演示
 
-![Demo 1](img/demo1.gif)
-![Demo 2](img/demo2.gif)
+
