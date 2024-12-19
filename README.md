@@ -25,7 +25,7 @@ ClusterGuard 是一个用于集群监控和自动故障转移的Streamlit面板�
 1. **克隆仓库：**
 
    ```bash
-   git clone https://github.com/yourusername/ClusterGuard.git
+   git clone https://github.com/mcxiaoxiao/ClusterGuard.git
    cd ClusterGuard
    ```
 
