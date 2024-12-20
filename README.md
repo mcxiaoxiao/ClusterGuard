@@ -1,6 +1,6 @@
 ![logo](img/logo.png)
 # ClusterGuard
-![Static Badge](https://img.shields.io/badge/Python-blue)![GitHub Repo stars](https://img.shields.io/github/stars/mcxiaoxiao/ClusterGuard)</br>
+![Static Badge](https://img.shields.io/badge/Python-blue) ![GitHub Repo stars](https://img.shields.io/github/stars/mcxiaoxiao/ClusterGuard)</br>
 ClusterGuard 是一个用于集群监控和自动故障转移的Streamlit面板应用，旨在确保服务器集群的高可用性和稳定性。通过实时监控节点状态和热备机制，ClusterGuard 可以在节点失效时触发预定义规则，提供直观的状态反馈和日志记录。需要集成 mStatAPI，用于获取 CPU 负载、内存使用和网络延迟等关键指标，准确及时监控。
 
 ## 功能
