@@ -58,5 +58,11 @@ ClusterGuard 是一个用于集群监控和自动故障转移的Streamlit面板�
 - **monitor.py**: 监控和故障转移逻辑的主脚本。
 - **README.md**: 项目文档。
 
+## 案例
+
+在生产/灾备集群中安装mStatAPI并用ClusterGuard实现监控和自动故障转移：
+![example](img/example.png)
+
+
 
 
